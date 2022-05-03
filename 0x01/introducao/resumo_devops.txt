@@ -1,3 +1,5 @@
+Metodologia
+
 O que é DevOps ? Quais beneficios em adotar DevOps nas empresas ?
  DevOps (junção das palavras “desenvolvimento” e “operação”) é um modelo que combina filosofias 
  culturais, práticas e ferramentas que aumentam a capacidade de uma empresa distribuir seus serviços
