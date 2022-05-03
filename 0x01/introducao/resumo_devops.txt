@@ -1,0 +1,40 @@
+O que é DevOps ? Quais beneficios em adotar DevOps nas empresas ?
+ DevOps (junção das palavras “desenvolvimento” e “operação”) é um modelo que combina filosofias 
+ culturais, práticas e ferramentas que aumentam a capacidade de uma empresa distribuir seus serviços
+ em alta velocidade.
+
+Seu benefícios são inúmeros, como:
+- Integração entre os times de desenvolvimento e infraestrutura
+- Facilidade para gerência de ambientes por causa das ferramentas de infrastructure as code
+- Maior aderência ao ambiente de execução das aplicações desde o ambiente de desenvolvimento
+- Pipeline de deploy mais rápido e automatizado
+
+Quais são os pilares da cultura DevOps ? O que é CALMS ?
+ O CALMS traz as principais diretrizes para a adesão do DevOps, transformando as estruturas 
+ internas para esse fim. Permite a análise da conjuntura atual, o apontamento do que deve ser 
+ feito e as diretrizes para uma implementação segura, no objetivo de conseguir os melhores resultados.
+
+ O CALMS é um acrônimo para Culture (Cultura), Automation (Automação), Lean (Metodologia Lean), 
+ Measurement (Mensuração) e Sharing (Compartilhamento). 
+
+O que faz um Engenheiro DevOps ?
+ O engenheiro DevOps coordena, integra e promove a colaboração entre as equipes de desenvolvimento
+ e administração de sistemas, por meio de práticas de gerenciamento ágil e automação de processos
+ dentro do ciclo de vida do software.
+
+O que é DevSecOps?
+ DevSecOps significa criar segurança no desenvolvimento de aplicativos de ponta a ponta. 
+ Essa integração no pipeline requer uma nova mentalidade organizacional, tanto quanto novas 
+ferramentas.
+
+Principais ferramentas OpenSource para DevOps
+ As principais ferramentas são: Gitlb,Puppet, Ansible, Jenkins, Vagrant, oVirt, Docker, Zabbix.
+
+O que é CI/CD: integração e entrega contínuas ?	
+ Continuos Delivery, CD -> Entrega contínua ou CD, por sua vez, reúne a integração contínua e a 
+ testagem que podem ser agrupados em contêineres e depois colocado em produção. Ou seja, ele ajunta
+ esses códigos e testes realizados, e coloca-os em produção de forma automatizada.
+ Continuous Integration, CI -> Integração Contínua ou CI, significa uma automação para que todas às
+ vezes que haja uma mudança em código de aplicação, ela seja integrada, testada e implementada.
+ E todo esse processo acontecendo em um ambiente compartilhado, com todos os envolvidos no processo.  
+ Uma vez que é muito comum que aplicações sejam desenvolvidas por um time não somente por uma pessoa. 
