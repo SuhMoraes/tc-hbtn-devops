@@ -33,7 +33,7 @@ Principais ferramentas OpenSource para DevOps
  As principais ferramentas são: Gitlb,Puppet, Ansible, Jenkins, Vagrant, oVirt, Docker, Zabbix.
 
 O que é CI/CD: integração e entrega contínuas ?	
- Continuos Delivery, CD -> Entrega contínua ou CD, por sua vez, reúne a integração contínua e a 
+ Continuos Delivery, CD -> Entrega contínua ou CD, por sua vez a metodologia, reúne a integração contínua e a 
  testagem que podem ser agrupados em contêineres e depois colocado em produção. Ou seja, ele ajunta
  esses códigos e testes realizados, e coloca-os em produção de forma automatizada.
  Continuous Integration, CI -> Integração Contínua ou CI, significa uma automação para que todas às
